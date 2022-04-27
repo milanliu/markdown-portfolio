@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[WIM Team Site: Projects](https://wim.usgs.gov/projects/#/)
